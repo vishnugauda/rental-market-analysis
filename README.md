@@ -10,8 +10,6 @@ The dashboard includes visualizations of:
 - Property type distribution and rental pricing behavior
 
 📊 **Dashboard Preview**  
-*(Click to enlarge)*  
-![Rental Market Dashboard](visuals/rental_dashboard.png)
 
 ---
 
